@@ -18,7 +18,7 @@ import os
 
 try:
 
-	import requestsexcept ImportError:
+	import requestsexcept ImportError:pkg install python
 
 	os.system("pip install requests")
 
